@@ -1,84 +1,87 @@
-.minhalista {
-    color:whitesmoke;
-    font-size: 30;
+.minhalista{
+    color:purple;
+    font-size:30;
 }
-
 #menu {
     text-align: center;
     font-size: 30px;
 }
 
-#lateral {
-    float: right;
+#lateral{
+     float:right;
 }
 
-.listas {
-    background: black;
+.lista{
+    background: #D8BFD8;
 }
 
-.imagens {
-    text-align: center;
-    background: whitesmoke;
+.imagens{
+    text-align:center;
+    background:#D8BFD8;
 }
-
 #cabecalho {
     text-align: center;
-    background: greenyellow;
+    background: #D8BFD8;
     border-bottom-style: solid;
+    margin-left: -7px;
+    margin-right: -7px;
+    margin-top: -8px;
+}
+.rodape{
+    text-align:center;
+    background:#D8BFD8;
+    border-top-style:solid;
     margin-left: -8px;
     margin-right: -8px;
     margin-top: -8px;
-    padding: 1px;
+    padding:1px;
 }
-
-.rodape {
-    text-align: center;
-    background: greenyellow;
-    border-top-style: solid;
-    margin-left: -8px;
-    margin-right: -8px;
-    margin-bottom: -30px;
-    padding: 1px;
-}
-
 .lista {
-    color: whitesmoke;
-    font-size: 30;
+    color: purple;
+    font-size:30;
 }
 
-#imagem {
+#imagem{
     text-align: center;
     border: 5px;
-    border-style: solid;
-    border-color: blue;
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 570px;
-    margin-right: 570px;
-}
-
+    border-style:solid;
+    border-color:#7B68EE;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left:570px;
+    margin-right:570px;
+}  
+    
 #link {
-    text-align: center;
+      text-align: center;
 }
 
-p {
-    color: red;
+p{
+    color: #4B0082;
     font-size: 30;
-
+    
 }
-
-h1 {
-    color: blue;
+h1{
+    color: #8A2BE2;
     text-align: center;
     font-size: 50;
 }
-
-h2 {
-    color: green;
+h2{
+    color: #7B68EE;
     text-align: left;
     font-size: 40;
 }
+#alunos {
+    background:#4B0082;
+}
+#alunos{
+    font-size: 20px;
+    color:#D8BFD8;
+    border-style: solid;
+    margin-right: 85%;
+    margin-top: -2px;
+    margin-bottom: -2px;
